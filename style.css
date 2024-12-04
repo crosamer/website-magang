@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+}
+
+body{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vh;
+}
+
+body header{
+    background-color: beige;
+    padding: 2px;
+}
+
+body main{
+    background-color: darkgray;
+}
+
+body footer{
+    padding: 1%;
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2{
+    padding: 1%;
+}
+
+p {
+    text-align: justify;
+    padding-top: 4px;
+    padding-bottom: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+ul{
+    padding-left: 5%;
+}
+
+.jenis p{
+    color: darkred;
+}
+
+
