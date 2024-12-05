@@ -42,9 +42,10 @@ p {
     padding-right: 2%;
 }
 
-img{
-    float: center;
-}
+.gambar {
+    display: flex;
+    justify-content: center;
+    }
 
 ul{
     padding-left: 5%;
