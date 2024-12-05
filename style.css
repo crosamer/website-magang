@@ -30,12 +30,20 @@ h2{
     padding: 1%;
 }
 
+h3{
+    padding-left: 1%;
+}
+
 p {
     text-align: justify;
     padding-top: 4px;
     padding-bottom: 10px;
     padding-left: 2%;
     padding-right: 2%;
+}
+
+img{
+    float: center;
 }
 
 ul{
